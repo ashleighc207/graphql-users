@@ -3,12 +3,24 @@
     {
       "id": "1",
       "firstName": "Rue",
-      "age": 1
+      "age": 1,
+      "companyId": "1"
     },
     {
       "id": "2",
       "firstName": "Draco",
-      "age": 3
+      "age": 3,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Zed",
+      "age": 5,
+      "companyId": "1"
     }
+  ],
+  "companies": [
+    { "id": "1", "name": "Barksalot", "description": "mouthy" },
+    { "id": "2", "name": "Nappers", "description": "sleepy" }
   ]
 }
